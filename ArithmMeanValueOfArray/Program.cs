@@ -15,7 +15,7 @@ for (int i = 0; i < nElems; i++)
     nSum += iArray[i];
     Console.Write(iArray[i] + " ");
 }
-var fltMeanVal = nSum / nElems;
+float fltMeanVal = (float)nSum / nElems;
 Console.WriteLine($"\r\nThe Sum of {nElems} elements of the array is:{nSum}");
 Console.WriteLine($"The Mean Value of {nElems} elementns of array is:{fltMeanVal}");
 Console.Read();
