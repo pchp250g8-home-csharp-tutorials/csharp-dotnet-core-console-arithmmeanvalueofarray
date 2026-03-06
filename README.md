@@ -1,4 +1,4 @@
-ArithmMeanValueOfArray. C# Tutorials. DotNet Core Platform. Simple Input/Output. Arrays. Algorithms. Console Application. 
+ArithmMeanValueOfArray. C# Tutorials. DotNet Core Platform. Simple Input/Output. Arrays. Algorithms. Console Application.
 
 A console application project written in C# and implemented in the Microsoft Visual Studio IDE. .Net Core platform. Simple input/output. Working with arrays and random numbers. Calculating the arithmetic mean of array elements.
 
